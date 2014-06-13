@@ -19,4 +19,8 @@ Double click on the .zip file, and locate the python program. It should be named
 Now open the Relab Database file you downloaded earlier. You should see three items. Catalogue, Data, and ReadMeFirst.txt.
 Place or paste the python file into this folder.
 
-Now 
+Now, go to the "catalogues" folder, and locate Sample_Catalogue.xls. This should open in Excel or a similar program. Locate the name of the Sample you would like to see data for. To the left of it, there should be an ID in the form of XX-XXX-000. Copy or remember this ID.
+
+Now, open go back to the python file and open it. On windows, this should directly open into a command line interface. For Mac, right click (ctr+click) the file, navigate to "Open With..." and click python launcher. If two are given, click on the one that says 2.7.
+
+Enter the ID number, and watch your plot be magically graphed!
