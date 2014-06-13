@@ -24,3 +24,6 @@ Now, go to the "catalogues" folder, and locate Sample_Catalogue.xls. This should
 Now, open go back to the python file and open it. On windows, this should directly open into a command line interface. For Mac, right click (ctr+click) the file, navigate to "Open With..." and click python launcher. If two are given, click on the one that says 2.7.
 
 Enter the ID number, and watch your plot be magically graphed!
+
+Program written by Mihir Trivedi
+Contact: mihir.trivedi17@bcp.org
