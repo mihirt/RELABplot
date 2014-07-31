@@ -26,4 +26,4 @@ Now, open go back to the python file and open it. On windows, this should direct
 Enter the ID number, and watch your plot be magically graphed!
 
 Program written by Mihir Trivedi
-Contact: mihir.trivedi17@bcp.org
+Contact: mihir.trivedi01@gmail.com
